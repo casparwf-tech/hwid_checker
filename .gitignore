@@ -1,0 +1,20 @@
+# Python virtual environment (created by setup.sh, do NOT commit)
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PyInstaller build artifacts
+build/
+dist/
+
+# IDE & Editor files
+*.code-workspace
+.vscode/
+.idea/
